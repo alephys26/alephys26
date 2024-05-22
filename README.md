@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Yash Shrivastava, currently a CS undergraduate student at IIT Jodhpur.  
+I am **Yash Shrivastava**, currently a CS undergraduate student at *IIT Jodhpur*.  
 I also have a minor in Mathematical and Computational Economics.  
 
 <!--
