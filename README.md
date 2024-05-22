@@ -1,16 +1,24 @@
 ## Hi there 👋
 I am **Yash Shrivastava**, currently a CS undergraduate student at *IIT Jodhpur*.  
 I also have a minor in Mathematical and Computational Economics.  
-- I have learnt and worked on projects related to
+I am at present an intern at [Pattern Technologies](www.pattern.com).
+
+### Fields familiar with
+I have learnt and worked on projects related to
   - Pattern Recognition
-  - Machine Learning
-  - Audio Processing
-  - Computer Networks
-  - Database Systems
-  - Embedded Systems
-  - Gaming
-  - AR/VR
+  - Machine Learning (ScikitLearn)
+  - Speech Processing (ASR, Deepfakes)
+  - Computer Networks (OMNeT++, Socket Programming in Python,C)
+  - Database Systems (MySQL, PostgreSQL, Neo4J)
+  - Embedded Systems (Keil \{mu}Vision)
+  - Gaming (Unity)
+  - AR/VR (Unity)
+  - Natural Language Processing (nltk)
+  - Linear Regression Analysis (R)
   - Web Development (HTML, CSS, JS, NodeJS, ASP.NET, Flask)
+
+### Contact Details
+You can find me at [LinkedIN]()
 
 <!--
 **alephys26/alephys26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
