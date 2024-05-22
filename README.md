@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am **Yash Shrivastava**, currently a CS undergraduate student at *IIT Jodhpur*.  
 I also have a minor in Mathematical and Computational Economics.  
-I am at present an intern at [Pattern Technologies](www.pattern.com).
+I am at present an intern at [Pattern Technologies](https://www.pattern.com).
 
 ### Fields familiar with
 I have learnt and worked on projects related to
