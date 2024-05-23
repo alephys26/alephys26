@@ -5,8 +5,8 @@ I am at present an intern at [Pattern Technologies](https://www.pattern.com).
 
 ### Fields familiar with
 I have learnt and worked on projects related to
-  - Pattern Recognition
-  - Machine Learning (ScikitLearn, MLxtend)
+  - Pattern Recognition (Pandas, Numpy)
+  - Machine Learning (ScikitLearn, MLxtend, PyTorch)
   - Speech Processing (Librosa, pyAudioProcessing, ASR, Deepfakes)
   - Computer Networks (OMNeT++, Socket Programming in Python,C)
   - Database Systems (MySQL, PostgreSQL, Neo4J)
