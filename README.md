@@ -10,7 +10,7 @@ I have learnt and worked on projects related to
   - Speech Processing (Librosa, pyAudioProcessing, ASR, Deepfakes)
   - Computer Networks (OMNeT++, Socket Programming in Python,C)
   - Database Systems (MySQL, PostgreSQL, Neo4J)
-  - Embedded Systems (Keil \{mu}Vision, C, C++)
+  - Embedded Systems (Keil \{mu}Vision, STM32F4, C, C++)
   - Gaming (Unity)
   - AR/VR (Unity)
   - Natural Language Processing (nltk)
