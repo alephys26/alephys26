@@ -6,8 +6,8 @@ I am at present an intern at [Pattern Technologies](https://www.pattern.com).
 ### Fields familiar with
 I have learnt and worked on projects related to
   - Pattern Recognition
-  - Machine Learning (ScikitLearn)
-  - Speech Processing (ASR, Deepfakes)
+  - Machine Learning (ScikitLearn, MLxtend)
+  - Speech Processing (Librosa, pyAudioProcessing, ASR, Deepfakes)
   - Computer Networks (OMNeT++, Socket Programming in Python,C)
   - Database Systems (MySQL, PostgreSQL, Neo4J)
   - Embedded Systems (Keil \{mu}Vision, C, C++)
@@ -18,7 +18,7 @@ I have learnt and worked on projects related to
   - Web Development (HTML, CSS, JS, NodeJS, ASP.NET, Flask)
 
 ### Contact Details
-You can find me at [LinkedIN]()
+You can find me at [LinkedIN](https://www.linkedin.com/in/yash-shrivastava-0b7257259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
 **alephys26/alephys26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
