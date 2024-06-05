@@ -15,7 +15,8 @@ I have learnt and worked on projects related to
   - AR/VR (Unity)
   - Natural Language Processing (nltk)
   - Linear Regression Analysis (R)
-  - Web Development (HTML, CSS, JS, NodeJS, ASP.NET, Flask)
+  - Web Development (RubyonRails, ReactJS, TypeScript, HTML, CSS, JS, NodeJS, ASP.NET, Flask)
+  - Data Orchestration (Apache Airflow, Astronomer)
 
 ### Contact Details
 You can find me at [LinkedIN](https://www.linkedin.com/in/yash-shrivastava-0b7257259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
