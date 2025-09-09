@@ -1,10 +1,5 @@
 ## Hi there 👋
-I am **Yash Shrivastava**, currently a Computer Science undergraduate student at *Indian Institute of Technology Jodhpur*.  
-I also have a minor in Mathematical and Computational Economics.  
-If there is anything exciting related to ML/Blockchain/Web, please feel free to contact me.
-
-### Contact Details
-You can find me at [LinkedIN](https://www.linkedin.com/in/yash-shrivastava-0b7257259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+I am **Yash Shrivastava**, currently a Software Engineer in [Pattern Technologies](www.pattern.com) contributing in the Data Platform Team.
 
 <!--
 **alephys26/alephys26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
